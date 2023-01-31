@@ -25,22 +25,22 @@
   }
   /* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
   .menus_items .menus_item:nth-child(2) .menus_item_child {
-    left: -280px; 
-  }
-  .menus_items .menus_item:nth-child(3) .menus_item_child {
     left: -300px; 
   }
+  .menus_items .menus_item:nth-child(3) .menus_item_child {
+    left: -310px; 
+  }
   .menus_items .menus_item:nth-child(4) .menus_item_child {
-    left: -70px; 
+    left: -90px; 
   }
   .menus_items .menus_item:nth-child(5) .menus_item_child {
-    left: -125px; 
+    left: -135px; 
   }
   .menus_items .menus_item:nth-child(6) .menus_item_child {
-    left: -85px; 
+    left: -90px; 
   }
   .menus_items .menus_item:nth-child(7) .menus_item_child {
-    left: -100px; 
+    left: -105px; 
   }
 #nav {
     font-size: 1.5em;  
