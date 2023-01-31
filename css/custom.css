@@ -42,6 +42,9 @@
   .menus_items .menus_item:nth-child(7) .menus_item_child {
     left: -100px; 
   }
+#nav {
+    font-size: 1.5em;  
+}
 
 /* 日间模式不生效 */
 [data-theme="light"] #site-name,
