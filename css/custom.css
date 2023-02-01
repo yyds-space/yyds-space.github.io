@@ -374,7 +374,7 @@ svg.social_icon {
   overflow: hidden;
 }
 
-/* 顶部渐变条色加载条 */
+顶部渐变条色加载条
 .pace {
   -webkit-pointer-events: none;
   pointer-events: none;
