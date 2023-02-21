@@ -763,3 +763,9 @@ h2::before {
 .el-textarea__inner:focus {
   background-image: url(https://tuchuang.voooe.cn/images/2023/01/02/close.webp) !important;
 }
+
+
+.loading-img {
+  background: url(https://www.whbblog.cn/other/touxiang.jpg) no-repeat center center;
+  background-size: cover;
+}
