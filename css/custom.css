@@ -666,6 +666,10 @@ h2::before {
 .layout {
   max-width: 1300px;
 }
+.page .layout {
+  max-width: 1400px;
+}
+
 
 /* 侧边卡片栏宽度 */
 .aside-content {
